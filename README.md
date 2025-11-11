@@ -16,4 +16,4 @@
 ## 运行步骤
 1. 克隆项目：
    ```bash
-   git clone https://github.com/你的GitHub用户名/student-score-system_01.git
+   git clone https://github.com/你的GitHub用户名/student-score-system_19.git
